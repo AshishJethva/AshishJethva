@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashish Jethva  
 
-<!--
-**AshishJethva/AshishJethva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me  
+I'm a full-stack web developer passionate about building dynamic, scalable, and user-friendly applications.  
+I specialize in the **MERN stack** and have experience with a variety of programming languages and tools.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials  
+- [LinkedIn](https://www.linkedin.com/in/ashishjethva/)  
+- [Twitter/X](https://x.com/ashish__2901)  
+- [Personal Website](https://www.ashishjethva.com/)  
+
+---
+
+## 🚀 Proficient In  
+- **Frontend**: React.js, HTML5, CSS3, JavaScript  
+- **Backend**: Node.js, Express.js  
+- **Databases**: MongoDB, PostgreSQL  
+- **Version Control**: Git, GitHub  
+
+---
+
+## 💡 Other Languages & Tech Stack  
+- **Programming Languages**: Java, PHP, C  
+- **Tools & Platforms**: VS Code, Postman  
+
+---
+
+⭐️ *Always open to collaboration and learning new technologies!*  
+
