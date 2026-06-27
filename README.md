@@ -9,7 +9,7 @@ I specialize in the **MERN stack** and have experience with a variety of program
 ## 🌐 Socials  
 - [LinkedIn](https://www.linkedin.com/in/ashishjethva/)  
 - [Twitter/X](https://x.com/ashish__2901)  
-- [Personal Website](https://www.ashishjethva.com/)  
+- [Personal Website](https://ashishjethva.com)  
 
 ---
 
