@@ -3,7 +3,7 @@
 ### Full-Stack Web Developer — React · Next.js · Node.js · TypeScript
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashishjethva.com-0072CF?style=flat&logo=google-chrome&logoColor=white)](https://ashishjethva.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishjethva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ashishjethva/)
 [![X](https://img.shields.io/badge/X-@ashish__2901-000000?style=flat&logo=x&logoColor=white)](https://x.com/ashish__2901)
 [![Email](https://img.shields.io/badge/Email-jethvaashish2914@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jethvaashish2914@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=AshishJethva&color=0072CF&style=flat)
